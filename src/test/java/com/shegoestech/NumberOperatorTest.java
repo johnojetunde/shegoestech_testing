@@ -7,8 +7,6 @@ import static org.junit.jupiter.api.Assertions.*;
 class NumberOperatorTest {
 
     private final NumberOperator numberOperator = new NumberOperator();
-    private int a = 1;
-    private int b = 2;
 
     @Test
     void addTwoNumbers_with1And2() {
