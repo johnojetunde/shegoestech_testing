@@ -13,6 +13,7 @@ class NumberOperatorTest {
         int expectedResult = 3;
         int result = numberOperator.add(1, 2);
 
+
         assertEquals(expectedResult, result);
     }
 

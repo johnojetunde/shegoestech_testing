@@ -23,6 +23,9 @@ class UnicornsTest {
 //        numberOperator =  Mockito.mock(NumberOperator.class);
 //        unicorns =  new Unicorns(numberOperator);
 //        MockitoAnnotations.openMocks(this);
+    //PowerMockito -  mocking static classes and constructors
+    //assertJ - easy and chainable assertions
+
 //    }
 
     @Test

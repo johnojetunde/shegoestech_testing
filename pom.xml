@@ -5,8 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.shegoestech</groupId>
-    <artifactId>testing</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <artifactId>modrite</artifactId>
+    <version>laura-violeta</version>
     <dependencies>
         <dependency>
             <groupId>org.junit.jupiter</groupId>
